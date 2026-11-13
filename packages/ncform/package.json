@@ -31,7 +31,7 @@
     "browser-sync": "^2.26.13",
     "concat": "^1.0.0",
     "cross-env": "^5.2.0",
-    "css-loader": "^0.23.1",
+    "css-loader": "^7.1.5",
     "csswring": "^4.0.0",
     "eslint": "^5.15.2",
     "eslint-loader": "^1.0.0",
